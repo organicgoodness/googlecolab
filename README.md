@@ -11,3 +11,11 @@ Google Colaboratoryで実行する.ipynbファイルをあげています。
 ・kansen_todouhuken_and_weather.ipynb：降水量とコロナウイルス感染症にかかった人数の相関の調査途中
 
 ・感染症シミュレーション.ipynb：SEIRモデルを使用したマルチエージェントシミュレーション(エージェントの配置と動きの出力結果は除外)
+
+・music2.ipynb：音生成（音の高さの調整メイン）
+
+・music音の流れなど.ipynb：音楽を音名とリズムとコード進行から生成するアルゴリズム
+
+・rice_and_SEIRmodel：cleveland.dataから統計取得
+
+・文章図解化.ipynb：既存の文章から主語と述語を取得し、図解化
